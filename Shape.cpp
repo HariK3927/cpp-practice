@@ -37,4 +37,4 @@ int main(){
 /*observations
 public: it means you can access parent class & child class objects also by calling through objects
 private :we cannot access even in objects also ,we can access only inside that class
-protected:we can access in dervied class objects not in the same class objects
+protected:we can access in dervied class objects not in the same class objects*/
